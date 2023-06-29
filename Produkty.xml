@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfKategoria xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Kategoria>
+		<Nazwa>Osobowe</Nazwa>
+		<Produkty>
+			<Produkt>
+				<Nazwa>szybki</Nazwa>
+				<Cena>90000</Cena>
+				<Kraj_pochodzenia>Włochy</Kraj_pochodzenia>
+			</Produkt>
+			<Produkt>
+				<Nazwa>wolny</Nazwa>
+				<Cena>8000</Cena>
+				<Kraj_pochodzenia>Polska</Kraj_pochodzenia>
+			</Produkt>
+			<Produkt>
+				<Nazwa>przecietny</Nazwa>
+				<Cena>6000</Cena>
+				<Kraj_pochodzenia>Niemcy</Kraj_pochodzenia>
+			</Produkt>
+		</Produkty>
+	</Kategoria>
+	<Kategoria>
+		<Nazwa>Motory</Nazwa>
+		<Produkty>
+			<Produkt>
+				<Nazwa>szybki</Nazwa>
+				<Cena>90000</Cena>
+				<Kraj_pochodzenia>Włochy</Kraj_pochodzenia>
+			</Produkt>
+			<Produkt>
+				<Nazwa>wolny</Nazwa>
+				<Cena>8000</Cena>
+				<Kraj_pochodzenia>Polska</Kraj_pochodzenia>
+			</Produkt>
+			<Produkt>
+				<Nazwa>przecietny</Nazwa>
+				<Cena>6000</Cena>
+				<Kraj_pochodzenia>Niemcy</Kraj_pochodzenia>
+			</Produkt>
+		</Produkty>
+	</Kategoria>
+</ArrayOfKategoria>

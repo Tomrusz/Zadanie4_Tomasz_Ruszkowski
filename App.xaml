@@ -1,0 +1,9 @@
+﻿<Application x:Class="Zadanie4_Tomasz_Ruszkowski.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Zadanie4_Tomasz_Ruszkowski"
+             StartupUri="WidokListyKategorii.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
